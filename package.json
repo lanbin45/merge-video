@@ -1,0 +1,14 @@
+{
+  "name": "merge-videoes",
+  "version": "0.0.0",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "@ffmpeg-installer/ffmpeg": "^1.0.13",
+    "@ffprobe-installer/ffprobe": "^1.0.8"
+  }
+}
