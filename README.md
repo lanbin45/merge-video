@@ -10,7 +10,7 @@ node>6+
 
      1. `npm install` 安装依赖包
      
-     2. `node app.js [path]`  通过命令行传path --> 方便php调用
+     2. `node app.js [path]`  通过命令行传path,方便php调用
      
 - 说明： 思路：
      1. 遍历传进来的path下的所有文件，过滤出.mp4文件;
