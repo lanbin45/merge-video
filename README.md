@@ -9,6 +9,7 @@ node>6+
 - 使用: 
 
      1. `npm install` 安装依赖包
+     
      2. `node app.js [path]`  通过命令行传path --> 方便php调用
      
 - 说明： 思路：
